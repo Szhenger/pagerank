@@ -1,2 +1,21 @@
-# pagerank
-This is PageRank!
+# PageRank
+
+### Problem to Solve 
+
+TODO
+
+### Background
+
+TODO
+
+### Understanding
+
+TODO
+
+### Specification
+
+TODO
+
+### Credit and Disclaimer
+
+TODO
